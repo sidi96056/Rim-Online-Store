@@ -8,7 +8,7 @@ Bu rapor, projenin mevcut durumunu ve teknik altyapısını özetler. Ortakları
 
 ### 🚀 Proje Durum Raporu: Rim Online Store
 
-**Mevcut Tarih:** 17 Mart 2026
+**Mevcut Tarih:** 01 Mart 2026
 
 **Durum:** Alfa / Temel Altyapı Tamamlandı
 
@@ -59,7 +59,7 @@ Mağazanız dört farklı para birimini yönetir. **Para Birimi (Currency)** bö
 
 * **Kur Belirleme:** Bir "Temel Para Birimi" belirlersiniz (Genellikle USD veya USDT).
 * **Çarpanlar (Multipliers):** MRU ve TRY için oranı tanımlarsınız.
-* **Örnek:** 1 USD = 34 TRY ise, çarpan alanına `34` girersiniz. Sitedeki tüm fiyatlar anında bu sayıya göre güncellenir.
+* **Örnek:** 1 USD = 50 TRY ise, çarpan alanına `50` girersiniz. Sitedeki tüm fiyatlar anında bu sayıya göre güncellenir.
 
 #### 3. Sipariş İşleme Akışı
 
